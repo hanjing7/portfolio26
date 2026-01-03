@@ -15,7 +15,7 @@
   },
   {
     id: "cpq-central-quote",
-    title: "CPQ (Central Quote)",
+    title: "Config, Price & Quote",
     description: `Designed a guided selling system within Salesforce, integrated with CRM and ERP platforms to scale up deal volume.`,
     images: [
       "https://cdn.gamma.app/07p9lb66qfoscak/4a7c19e4704f4e99a3dedba52081db5d/original/image.png",
