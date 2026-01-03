@@ -1,7 +1,7 @@
 [
   {
     "id": "new-product-introduction",
-    "title": "New Product Introduction Flow",
+    "title": "New Product Intro Workflow",
     "description": "Launching a product shouldn't feel like navigating a minefield. Manual errors weren't just a 'task' problem—they were a 'connection' problem. Integrating a smarter process across the entire organization, we didn't just simplify the workflow, but brings the potential of accurate collaboration:",
     "tags": [
       { "name": "Time-to-market ↓90%" },
@@ -15,7 +15,7 @@
   },
   {
     "id": "pure-as-a-service",
-    "title": "Pure as a Service",
+    "title": "Pure Subscription Transformation",
     "description": "Design for Pure's step into the storage services offering, how do we reorient the existing service metrics under the service model? Expands customers the flexibility to choose to consume storage via subscription, simplify storage tracking and procurement.",
     "tags": [
       { "name": "React Native" },
