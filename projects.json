@@ -38,8 +38,8 @@
   },
   {
     "id": "use-ai-sell-best-price",
-    "title": "Use AI to Sell at the Best Price",
-    "description": "Help our BA scale the value of auto ML, predict the win and loss probability of sales opportunities.",
+    "title": "AI Guided Pricing Strategy",
+    "description": "Applied AutoML to model the relationship between pricing and win probability, delivering intelligent pricing recommendations that maximize deal conversion while protecting revenue margins.",
     "tags": [
       { "name": "A' Design Award Silver" }
     ],
